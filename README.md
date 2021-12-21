@@ -1,1 +1,1 @@
-# artificial-intelligence-h1
+Artificial Intelligence Assignments
